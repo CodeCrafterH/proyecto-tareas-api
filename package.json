@@ -2,7 +2,7 @@
     "name": "http-201-demo",
     "version": "1.0.0",
     "description": "Demo para HTTP 201 status y GET de tareas.",
-    "main": "server.js",
+    "main": "index.js",
     "scripts": {
         "start": "node server.js"
     },
